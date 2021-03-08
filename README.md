@@ -1,6 +1,6 @@
 # Get-Wifi-Password
 A simple program to show wifi password of saved network using Python!
-**This information is for educational purpose only! 
+*This information is for educational purpose only! 
 
 # To run this script:
 Make sure Python is installed in your system.
